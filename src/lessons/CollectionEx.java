@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.*;
 
-public class Collection {
+public class CollectionEx {
     public static void main(String[] args) {
 
         ArrayList<Set<String>> al = new ArrayList<>();

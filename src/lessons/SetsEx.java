@@ -1,6 +1,6 @@
 package lessons;
 import java.util.*;
-public class Sets {
+public class SetsEx {
     public static void main(String[] args) {
 
         Set<String> set = new TreeSet<>();

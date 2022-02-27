@@ -3,7 +3,7 @@ package lessons;
 import java.util.Arrays;
 import java.util.List;
 
-public class Wildcard {
+public class WildcardEx {
     public static void main(String[] args) {
         Container<Car.Sedan> sdn;
         Container<Bike.Scooter> sct;

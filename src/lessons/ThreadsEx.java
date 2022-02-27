@@ -1,6 +1,6 @@
 package lessons;
 
-public class Threads {
+public class ThreadsEx {
     public static void main(String[] args) {
         MyThread mt = new MyThread(" First - ");
         mt.start();

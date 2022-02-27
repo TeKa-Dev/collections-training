@@ -2,7 +2,7 @@ package lessons;
 
 import java.util.*;
 
-public class Generic<T> {
+public class GenericEx<T> {
     public static void main(String[] args) {
         String[] strs = {"twe", "wqe", "ghj"};
         ArrayList<Object> list = new ArrayList<>();
