@@ -1,6 +1,4 @@
-package com.second;
-
-import java.math.BigInteger;
+package lessons;
 
 public class Threads {
     public static void main(String[] args) {

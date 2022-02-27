@@ -1,4 +1,4 @@
-package com.second;
+package lessons;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.first;
+package practic;
 
 class Analyse {
     public static void main(String[] args) {

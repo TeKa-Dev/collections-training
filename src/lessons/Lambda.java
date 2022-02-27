@@ -1,4 +1,4 @@
-package com.second;
+package lessons;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -49,17 +49,21 @@ public class Lambda {
     }
 
 }
+
 class lam {
     public static void main(String[] args) {
-        FI fi = () -> 5;
+        FI fi = (n) -> n*n;
 
-        voo(fi);
+        System.out.println(fi.foo(4));
+
+        voo(6, (n -> n+n));
     }
-    static void voo(FI f) {
-        System.out.println(f.foo());
+    static void voo(int n, FI f) {
+        System.out.println(f.foo(n));
     }
 }
+
 @FunctionalInterface
 interface FI {
-    int foo();
+    int foo(int n);
 }

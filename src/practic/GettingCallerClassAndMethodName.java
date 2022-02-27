@@ -1,4 +1,4 @@
-package com.first;
+package practic;
 
 public interface GettingCallerClassAndMethodName {
 

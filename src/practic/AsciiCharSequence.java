@@ -1,4 +1,4 @@
-package com.first;
+package practic;
 
 import java.util.Arrays;
 

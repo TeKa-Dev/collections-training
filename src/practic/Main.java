@@ -1,4 +1,4 @@
-package com.first;
+package practic;
 
 import java.math.BigDecimal;
 import java.nio.file.Path;

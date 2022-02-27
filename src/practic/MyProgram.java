@@ -1,4 +1,4 @@
-package com.first;
+package practic;
 
 import java.io.File;
 import java.nio.file.Path;

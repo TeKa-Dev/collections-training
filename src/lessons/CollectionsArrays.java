@@ -1,4 +1,4 @@
-package com.second;
+package lessons;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
